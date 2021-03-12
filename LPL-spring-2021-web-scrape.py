@@ -292,7 +292,7 @@ def create_server_connection(host_name, user_name, user_password):
 
     return connection
 
-pw = '1qaz2wsx'
+pw = '?????'
 connection = create_server_connection("localhost", "root", pw)
 
 # create database
